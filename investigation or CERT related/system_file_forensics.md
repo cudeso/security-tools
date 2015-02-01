@@ -4,6 +4,9 @@
 
 ## Cheatsheets
 
+### Watch the progress of an already started "mv" (move) command in Linux
+ diff <(du -s /opt/dir1/) <(du -s /opt/dir2/)
+ 
 ---
 
 ## Radare
